@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micaelbatistaal
-- 👀 I’m interested in PHP e Python
+- 👀 I’m interested in PHP
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Instagram: @micaelbatistaoficial
